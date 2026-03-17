@@ -53,6 +53,20 @@ Compares performance across Tier 1, Tier 2, and Tier 3 cities
 Outlet Type Table
 Provides detailed comparison of sales, number of items, ratings, and visibility across different outlet types
 
+• Business Impact & Insights
+
+📈 Tier 3 outlets generate the highest revenue contribution
+
+🏪 Supermarket Type 1 dominates in both sales and item count
+
+🥗 Regular fat products outperform low-fat products in sales
+
+🍎 Fruits & Snack Foods are the top-selling categories
+
+⭐ Average ratings are consistent across outlet types, indicating stable customer satisfaction
+
+📊 Sales trends show initial growth followed by stabilization
+
 #### Screenshots
 <img width="1282" height="728" alt="BlinkAnalytics" src="https://github.com/user-attachments/assets/515ca23d-daa4-4deb-a948-89efb386ab9a" />
 
