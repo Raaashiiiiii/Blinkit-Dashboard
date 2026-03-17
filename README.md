@@ -54,5 +54,7 @@ Outlet Type Table
 Provides detailed comparison of sales, number of items, ratings, and visibility across different outlet types
 
 #### Screenshots
+<img width="1282" height="728" alt="BlinkAnalytics" src="https://github.com/user-attachments/assets/515ca23d-daa4-4deb-a948-89efb386ab9a" />
+
 
 
